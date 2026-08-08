@@ -1,1 +1,2 @@
 *.ppk2 filter=lfs diff=lfs merge=lfs -text
+data/raw/power_profiling/standard/Profile03/ppk-pm0_DR5_TX3_L30.csv filter=lfs diff=lfs merge=lfs -text
