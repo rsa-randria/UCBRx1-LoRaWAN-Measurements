@@ -4,3 +4,21 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# STM32CubeIDE build outputs
+firmware/**/Debug/
+firmware/**/Release/
+
+# STM32 generated build files
+firmware/**/*.o
+firmware/**/*.d
+firmware/**/*.elf
+firmware/**/*.bin
+firmware/**/*.hex
+firmware/**/*.map
+firmware/**/*.list
+firmware/**/*.su
+firmware/**/*.cyclo
+
+# Eclipse / STM32CubeIDE workspace metadata
+.metadata/
