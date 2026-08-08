@@ -189,6 +189,16 @@ RX2 ACK Count
 
 These counters support the analysis of channel usage, delivery outcome, and ACK reception timing.
 
+The per-channel dataset is derived from real-time network measurements collected through our LoRaWAN monitoring infrastructure. Additional real-time network characterization data are available through the following platforms:
+
+- [LoRaWAN Network Server](https://lns.rrandria.com/)
+- [Monitoring Dashboard](https://dashboard.rrandria.com/)
+- [Wanesy Management Center](https://wmc.wanesy.com/)
+
+Programmatic access to network and monitoring data is available through REST APIs.
+
+Please contact the corresponding author for access credentials, API information, and additional data.
+
 ## STM32WL55 Firmware
 
 The experimental end-device firmware is based on the `LoRaWAN_End_Node` application provided by STMicroelectronics and adapted for the evaluated channel-selection mechanisms.
