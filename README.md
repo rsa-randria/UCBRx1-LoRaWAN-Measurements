@@ -18,6 +18,16 @@ For UCBRx1, the underlying UCB channel-selection rule is preserved, while the re
 
 The repository focuses on the experimental and implementation aspects of the study, including hardware current measurements, transmission and receive-window profiling, ACK-timing measurements, per-channel experimental counters, STM32WL55 firmware, and MATLAB scripts used to process and visualize representative traces.
 
+The per-channel experimental dataset is derived from real-time network measurements collected through our LoRaWAN monitoring infrastructure through REST APIs. For exemple : [LoRaWAN Network Server metrics](https://lns.rrandria.com/external-api/gateway-metrics) of our all sites.
+
+Additional real-time network characterization data are available through the following platforms:
+
+- [LoRaWAN Network Server](https://lns.rrandria.com/) 
+- [Monitoring Dashboard](https://dashboard.rrandria.com/)
+- [Wanesy Management Center](https://wmc.wanesy.com/) : login : contact@rrandria.com, password: Babakoto@26*
+
+Please contact the corresponding author for access credentials, API information, and additional data.
+
 ## Repository Structure
 
 ```text
@@ -188,16 +198,6 @@ RX2 ACK Count
 ```
 
 These counters support the analysis of channel usage, delivery outcome, and ACK reception timing.
-
-The per-channel dataset is derived from real-time network measurements collected through our LoRaWAN monitoring infrastructure. Additional real-time network characterization data are available through the following platforms:
-
-- [LoRaWAN Network Server](https://lns.rrandria.com/) 
-- [Monitoring Dashboard](https://dashboard.rrandria.com/)
-- [Wanesy Management Center](https://wmc.wanesy.com/) : login : contact@rrandria.com, password: Babakoto@26*
-
-Programmatic access to network and monitoring data is available through REST APIs. For exemple : [LoRaWAN Network Server metrics](https://lns.rrandria.com/external-api/gateway-metrics) of our all sites.
-
-Please contact the corresponding author for access credentials, API information, and additional data.
 
 ## STM32WL55 Firmware
 
