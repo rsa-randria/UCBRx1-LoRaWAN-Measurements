@@ -18,7 +18,7 @@ For UCBRx1, the underlying UCB channel-selection rule is preserved, while the re
 
 The repository focuses on the experimental and implementation aspects of the study, including hardware current measurements, transmission and receive-window profiling, ACK-timing measurements, per-channel experimental counters, STM32WL55 firmware, and MATLAB scripts used to process and visualize representative traces.
 
-The [per-channel experimental dataset](https://lns.rrandria.com/external-api/gateway-metrics) is derived from real-time network measurements collected by our LoRaWAN monitoring infrastructure and made available through REST APIs.
+The [per-channel experimental dataset](https://lns.rrandria.com/external-api/gateway-metrics) is derived from real-time network measurements collected through our infrastructures and made available through REST APIs.
 
 Additional real-time network characterization data are available through the following platforms:
 
