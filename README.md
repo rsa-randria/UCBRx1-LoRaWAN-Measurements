@@ -2,7 +2,7 @@
 
 Experimental dataset, STM32WL55 firmware, and MATLAB processing scripts associated with the study:
 
-**Decentralized Multi-Armed Bandit Learning for Energy-Efficient LoRaWAN Spectrum Access: Measurement-Based Evaluation**
+**Upper Confidence Bound-Based Device-Side Learning for Energy-Efficient LoRaWAN Channel Selection**
 
 This repository provides the experimental material used to characterize LoRaWAN Class-A communication energy and to evaluate Standard channel selection, UCB-based channel selection, and the ACK-timing-aware UCBRx1 reward-shaping mechanism.
 
