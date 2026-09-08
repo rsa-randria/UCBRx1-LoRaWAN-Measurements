@@ -24,7 +24,7 @@ Additional real-time network characterization data are available through the fol
 
 - [LoRaWAN Network Server](https://lns.rrandria.com/) 
 - [Monitoring Dashboard](https://dashboard.rrandria.com/)
-- [Wanesy Management Center](https://wmc.wanesy.com/) : login : contact@rrandria.com, password: Babakoto@26*
+- [Wanesy Management Center](https://wmc.wanesy.com/) : access credentials available from the corresponding author upon reasonable request.
 
 Please contact the corresponding author for access credentials, API information, and additional data.
 
