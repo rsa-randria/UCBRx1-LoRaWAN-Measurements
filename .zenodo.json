@@ -1,0 +1,48 @@
+{
+  "title": "UCBRx1 LoRaWAN: STM32WL55 Firmware and Experimental Measurement Dataset",
+  "description": "Firmware, experimental measurement data, and processing resources associated with ACK-timing-aware UCB-based device-side channel learning on an STM32WL55 LoRaWAN Class-A end device. The repository supports the measurement-based energy characterization and experimental evaluation reported in the associated study, including MCU-side learning overhead, confirmed-uplink energy consumption, ACK reception in WinRx1 and WinRx2, channel-selection statistics, and service-energy performance.",
+  "creators": [
+    {
+      "name": "Randriatsiferana, Rivo",
+      "orcid": "0000-0001-8630-2971",
+      "affiliation": "Espace-DEV, IRD, Univ. Guyane, Montpellier, France"
+    },
+    {
+      "name": "Moy, Christophe",
+      "orcid": "0000-0001-9639-1648",
+      "affiliation": "Univ Rennes, CNRS, IETR-UMR 6164, Rennes, France"
+    },
+    {
+      "name": "Mishra, Deepak",
+      "orcid": "0000-0002-3225-6495",
+      "affiliation": "School of Electrical Engineering and Telecommunications, The University of New South Wales, Sydney, NSW 2052, Australia"
+    },
+    {
+      "name": "Tamarin, Ollivier",
+      "orcid": "0000-0002-4574-2345",
+      "affiliation": "Espace-DEV, IRD, Univ. Guyane, Montpellier, France"
+    },
+    {
+      "name": "Freire, Raimundo",
+      "affiliation": "Department of Electrical Engineering, Federal University of Campina Grande, Campina Grande 58429-900, Brazil"
+    }
+  ],
+  "keywords": [
+    "LoRaWAN",
+    "STM32WL55",
+    "Multi-Armed Bandit",
+    "Upper Confidence Bound",
+    "UCBRx1",
+    "ACK timing",
+    "WinRx1",
+    "WinRx2",
+    "energy measurement",
+    "power profiling",
+    "wireless sensor device",
+    "Internet of Things"
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}
